@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img width="350" heigh="190" src="https://github.com/hugogomess/hugogomess/blob/master/hacking.gif"></p>
-
 [![MrZhouZh's github stats](https://github-readme-stats.vercel.app/api?username=MrZhouZh)](https://github.com/anuraghazra/github-readme-stats)
