@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Siv Ram Shastri, Front-end Developer :computer:
+### I'm Jace Chow, Front-end Developer :computer:
 
 ![Coder Gif](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
