@@ -43,7 +43,12 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
   </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MrZhouZh" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrZhouZh" width="40" height="40" />
+  </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrZhouZh)](https://github-readme-stats.vercel.app/api/top-langs/?username=MrZhouZh)
 
 <!-- https://devicon.dev/ -->
 <!-- https://www.vectorlogo.zone/logos/ />
