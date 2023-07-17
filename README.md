@@ -79,4 +79,4 @@ Here are some ideas to get you started:
 
 <!-- [![MrZhouZh's github stats](https://github-readme-stats.vercel.app/api?username=MrZhouZh)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![profile count](https://profile-counter.glitch.me/MrZhouZh/count.svg)
+<!-- ![profile count](https://profile-counter.glitch.me/MrZhouZh/count.svg) -->
